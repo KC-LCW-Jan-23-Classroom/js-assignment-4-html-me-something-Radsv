@@ -1,1 +1,60 @@
 /* Write your CSS here! */
+
+body { 
+
+    margin: 8px; 
+
+    text-align: center; 
+
+} 
+
+#mainHeading { 
+
+    font-size: 50px; 
+
+    text-align: center; 
+
+    color: red; 
+
+  } 
+
+ 
+ 
+
+  .funParagraph{ 
+
+    text-align: center; 
+
+    margin-top:50px; 
+
+    margin-bottom: 50px; 
+
+    margin-left: 100px; 
+
+    margin-right: 100px; 
+
+    color: green; 
+
+ 
+ 
+
+  } 
+
+ 
+ 
+
+  p{ 
+
+    text-align: center; 
+
+    margin-top:50px; 
+
+    margin-bottom: 50px; 
+
+    margin-left: 100px; 
+
+    margin-right: 100px; 
+
+  } 
+
+ 
